@@ -1,0 +1,7 @@
+
+ProjectPertama/Library/*
+ProjectPertama/Logs/*
+ProjectPertama/Temp/*
+
+.vsconfig
+*.sln
